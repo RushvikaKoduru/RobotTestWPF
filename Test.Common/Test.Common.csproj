@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BBF85908-5046-4C89-B143-6A1ECBD181CC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Test.Common</RootNamespace>
+    <AssemblyName>Test.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\Button.cs" />
+    <Compile Include="Controls\ItemsControl.cs" />
+    <Compile Include="Controls\ListBox.cs" />
+    <Compile Include="Controls\NameList.cs" />
+    <Compile Include="Controls\NameListItem.cs" />
+    <Compile Include="Controls\TextBlock.cs" />
+    <Compile Include="Delay.cs" />
+    <Compile Include="Element.cs" />
+    <Compile Include="ElementExtensions.cs" />
+    <Compile Include="FrameworkElementBase.cs" />
+    <Compile Include="FunctionRunner.cs" />
+    <Compile Include="ProcessManagement.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestInstance.cs" />
+    <Compile Include="ViewBase.cs" />
+    <Compile Include="WindowBase.cs" />
+    <Compile Include="WindowsElementBase.cs" />
+    <Compile Include="WindowTraversalBase.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Ben.Demystifier">
+      <Version>0.4.1</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.WinAppDriver.Appium.WebDriver">
+      <Version>1.0.1-Preview</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dt1M3ABiOrrWp3F7/cZkIAp/c3OJ1Sq+v2CZug5K4187g8Nn0TGrsnu0iR5YepELo9gTk/lrVP04c727Z6XbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\WpfTestApp.UITests\\WpfTestApp.UITests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rushv\\.nuget\\packages\\ben.demystifier\\0.4.1\\ben.demystifier.0.4.1.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.0.2\\microsoft.testing.extensions.telemetry.1.0.2.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.0.2\\microsoft.testing.extensions.trxreport.abstractions.1.0.2.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.0.2\\microsoft.testing.extensions.vstestbridge.1.0.2.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\microsoft.testing.platform\\1.0.2\\microsoft.testing.platform.1.0.2.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.0.2\\microsoft.testing.platform.msbuild.1.0.2.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\microsoft.winappdriver.appium.webdriver\\1.0.1-preview\\microsoft.winappdriver.appium.webdriver.1.0.1-preview.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\mstest.testadapter\\3.2.2\\mstest.testadapter.3.2.2.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\mstest.testframework\\3.2.2\\mstest.testframework.3.2.2.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\selenium.support\\3.8.0\\selenium.support.3.8.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\selenium.webdriver\\3.8.0\\selenium.webdriver.3.8.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

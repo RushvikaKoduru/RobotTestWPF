@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbCb4SE6QwDqApRpBSRUygWOnNfRYWR2gKFyMOf0oTN//6CW4MJt7Qc+IaC1IqQNN29w1M0cHM+APVSfBOn74Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rushv\\.nuget\\packages\\ben.demystifier\\0.4.1\\ben.demystifier.0.4.1.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\microsoft.winappdriver.appium.webdriver\\1.0.1-preview\\microsoft.winappdriver.appium.webdriver.1.0.1-preview.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\selenium.support\\3.8.0\\selenium.support.3.8.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\selenium.webdriver\\3.8.0\\selenium.webdriver.3.8.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\rushv\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

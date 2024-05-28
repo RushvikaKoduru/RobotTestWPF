@@ -1,0 +1,252 @@
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.dll.config
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.pdb
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\CommonServiceLocator.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Interview1.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Buffers.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Memory.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Numerics.Vectors.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Windows.Interactivity.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Test.Common.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\WpfTestApp.UITests.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\appium-dotnet-driver.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\WebDriver.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Ben.Demystifier.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\WebDriver.Support.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Castle.Core.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Reflection.Metadata.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Collections.Immutable.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Test.Common.pdb
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\WpfTestApp.UITests.pdb
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Interview1.pdb
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Buffers.xml
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Memory.xml
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Numerics.Vectors.xml
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestApp.ViewModels.csproj.AssemblyReference.cache
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestA.8A23433A.Up2Date
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\obj\Debug\TestApp.ViewModels.dll
+C:\Temp\test\SDET Test\WpfTestApp.ViewModels\obj\Debug\TestApp.ViewModels.pdb
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.dll.config
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.pdb
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\CommonServiceLocator.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Interview1.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Buffers.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Memory.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Numerics.Vectors.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Windows.Interactivity.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Test.Common.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\WpfTestApp.UITests.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\appium-dotnet-driver.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\WebDriver.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Ben.Demystifier.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Newtonsoft.Json.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\WebDriver.Support.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Castle.Core.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Reflection.Metadata.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Collections.Immutable.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Test.Common.pdb
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\WpfTestApp.UITests.pdb
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Interview1.pdb
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Buffers.xml
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Memory.xml
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Numerics.Vectors.xml
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestApp.ViewModels.csproj.AssemblyReference.cache
+C:\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestA.8A23433A.Up2Date
+C:\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\TestApp.ViewModels.dll
+C:\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\TestApp.ViewModels.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.dll.config
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\CommonServiceLocator.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Interview1.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Buffers.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Memory.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Test.Common.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\WpfTestApp.UITests.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\appium-dotnet-driver.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\WebDriver.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Ben.Demystifier.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\WebDriver.Support.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Castle.Core.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Collections.Immutable.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Test.Common.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\WpfTestApp.UITests.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Interview1.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Buffers.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Memory.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestA.8A23433A.Up2Date
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\TestApp.ViewModels.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\WpfTestApp.ViewModels\obj\Debug\TestApp.ViewModels.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.dll.config
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\TestApp.ViewModels.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\CommonServiceLocator.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Interview1.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Buffers.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Memory.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Test.Common.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\WpfTestApp.UITests.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\appium-dotnet-driver.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\WebDriver.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Ben.Demystifier.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\WebDriver.Support.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Castle.Core.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Collections.Immutable.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Test.Common.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\WpfTestApp.UITests.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Interview1.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Buffers.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Memory.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\obj\Debug\WpfTestA.8A23433A.Up2Date
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\obj\Debug\TestApp.ViewModels.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\WpfTestApp.ViewModels\obj\Debug\TestApp.ViewModels.pdb

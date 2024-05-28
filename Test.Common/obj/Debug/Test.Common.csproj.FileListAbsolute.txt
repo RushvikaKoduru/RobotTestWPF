@@ -1,0 +1,60 @@
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\Test.Common.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\Test.Common.pdb
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\Ben.Demystifier.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\Castle.Core.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\appium-dotnet-driver.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\WebDriver.Support.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\WebDriver.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\System.Buffers.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\System.Collections.Immutable.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\System.Memory.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\System.Numerics.Vectors.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\System.Reflection.Metadata.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\test\SDET Test\Test.Common\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Temp\test\SDET Test\Test.Common\obj\Debug\Test.Common.csproj.AssemblyReference.cache
+C:\Temp\test\SDET Test\Test.Common\obj\Debug\Test.Common.csproj.CoreCompileInputs.cache
+C:\Temp\test\SDET Test\Test.Common\obj\Debug\Test.Com.7A0797C5.Up2Date
+C:\Temp\test\SDET Test\Test.Common\obj\Debug\Test.Common.dll
+C:\Temp\test\SDET Test\Test.Common\obj\Debug\Test.Common.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\Test.Common.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\Test.Common.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\Ben.Demystifier.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\Castle.Core.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\appium-dotnet-driver.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\WebDriver.Support.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\WebDriver.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\System.Buffers.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\System.Collections.Immutable.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\System.Memory.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\obj\Debug\Test.Common.csproj.AssemblyReference.cache
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\obj\Debug\Test.Common.csproj.CoreCompileInputs.cache
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\obj\Debug\Test.Com.7A0797C5.Up2Date
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\obj\Debug\Test.Common.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\Test.Common\obj\Debug\Test.Common.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\Test.Common.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\Test.Common.pdb
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\Ben.Demystifier.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\Castle.Core.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\appium-dotnet-driver.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\WebDriver.Support.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\WebDriver.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\System.Buffers.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\System.Collections.Immutable.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\System.Memory.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\obj\Debug\Test.Common.csproj.AssemblyReference.cache
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\obj\Debug\Test.Common.csproj.CoreCompileInputs.cache
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\obj\Debug\Test.Com.7A0797C5.Up2Date
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\obj\Debug\Test.Common.dll
+C:\Users\rushv\OneDrive\Desktop\Programs\SDET Test\SDET Test\Test.Common\obj\Debug\Test.Common.pdb

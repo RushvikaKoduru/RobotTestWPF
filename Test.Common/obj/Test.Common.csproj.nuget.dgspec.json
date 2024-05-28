@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj",
+        "projectName": "Test.Common",
+        "projectPath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj",
+        "packagesPath": "C:\\Users\\rushv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rushv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Ben.Demystifier": {
+              "target": "Package",
+              "version": "[0.4.1, )"
+            },
+            "Microsoft.WinAppDriver.Appium.WebDriver": {
+              "target": "Package",
+              "version": "[1.0.1-Preview, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
