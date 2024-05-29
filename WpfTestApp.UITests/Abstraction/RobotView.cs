@@ -11,10 +11,8 @@ namespace WpfTestApp.UITests.Abstraction
         {
         }
 
-        //public Button GoButton => GetButtonXPaths("//Button[@Name='Go'])[1]");
         public Button GoButton => GetButton("GoButton");
         public Button StopButton => GetButton("StopButton");
-        //public ProgressBar ProgressBar => GetProgress("ProgressBar");
 
 
         public string Status => new TextBlock(this.TryGetElement("RobotStatus")).Text;
@@ -24,9 +22,6 @@ namespace WpfTestApp.UITests.Abstraction
 
 
         private Button GetButton(string automationId) => new Button(this.TryGetElement(automationId));
-        //private Button GetButtonXPaths(string automationId) => new Button(this.TryGetElement(automationId));
-
-        //public ProgressBar GetProgress(string automationId) => new ProgressBar((RemoteWebElement)this.TryGetElement(automationId));
         
        
     }
