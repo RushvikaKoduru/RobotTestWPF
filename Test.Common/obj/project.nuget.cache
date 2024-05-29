@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbCb4SE6QwDqApRpBSRUygWOnNfRYWR2gKFyMOf0oTN//6CW4MJt7Qc+IaC1IqQNN29w1M0cHM+APVSfBOn74Q==",
+  "dgSpecHash": "fEv+7d4gN22n/74Ff6RVVAbOaPtOIF03XHBiGGo11HX3ICrkYXOjL0yg1k3I4HhVyyAB3+uqOEvRxLwKJ5iUDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj",
+  "projectFilePath": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\Test.Common\\Test.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rushv\\.nuget\\packages\\ben.demystifier\\0.4.1\\ben.demystifier.0.4.1.nupkg.sha512",
     "C:\\Users\\rushv\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",

@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CD4A7-6F86-4A88-A4F1-11D728308236}|WpfTestApp.UITests\\WpfTestApp.UITests.csproj|c:\\users\\rushv\\onedrive\\documents\\github\\robottestwpf\\wpftestapp.uitests\\moveandstoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CD4A7-6F86-4A88-A4F1-11D728308236}|WpfTestApp.UITests\\WpfTestApp.UITests.csproj|solutionrelative:wpftestapp.uitests\\moveandstoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 181,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 60,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveAndStopTests.cs",
+              "DocumentMoniker": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\WpfTestApp.UITests\\MoveAndStopTests.cs",
+              "RelativeDocumentMoniker": "WpfTestApp.UITests\\MoveAndStopTests.cs",
+              "ToolTip": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\WpfTestApp.UITests\\MoveAndStopTests.cs",
+              "RelativeToolTip": "WpfTestApp.UITests\\MoveAndStopTests.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAqwJIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:37:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

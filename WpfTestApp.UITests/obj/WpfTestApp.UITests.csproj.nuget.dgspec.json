@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\WpfTestApp.UITests\\WpfTestApp.UITests.csproj": {}
+    "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\WpfTestApp.UITests\\WpfTestApp.UITests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj": {
+    "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\Test.Common\\Test.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj",
+        "projectUniqueName": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\Test.Common\\Test.Common.csproj",
         "projectName": "Test.Common",
-        "projectPath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj",
+        "projectPath": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\Test.Common\\Test.Common.csproj",
         "packagesPath": "C:\\Users\\rushv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\obj\\",
+        "outputPath": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\Test.Common\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\WpfTestApp.UITests\\WpfTestApp.UITests.csproj": {
+    "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\WpfTestApp.UITests\\WpfTestApp.UITests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\WpfTestApp.UITests\\WpfTestApp.UITests.csproj",
+        "projectUniqueName": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\WpfTestApp.UITests\\WpfTestApp.UITests.csproj",
         "projectName": "WpfTestApp.UITests",
-        "projectPath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\WpfTestApp.UITests\\WpfTestApp.UITests.csproj",
+        "projectPath": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\WpfTestApp.UITests\\WpfTestApp.UITests.csproj",
         "packagesPath": "C:\\Users\\rushv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\WpfTestApp.UITests\\obj\\",
+        "outputPath": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\WpfTestApp.UITests\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -97,8 +97,8 @@
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj": {
-                "projectPath": "C:\\Users\\rushv\\OneDrive\\Desktop\\Programs\\SDET Test\\SDET Test\\Test.Common\\Test.Common.csproj"
+              "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\Test.Common\\Test.Common.csproj": {
+                "projectPath": "C:\\Users\\rushv\\OneDrive\\Documents\\GitHub\\RobotTestWPF\\Test.Common\\Test.Common.csproj"
               }
             }
           }
@@ -116,9 +116,21 @@
               "target": "Package",
               "version": "[3.2.2, )"
             },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
             "MSTest.TestFramework": {
               "target": "Package",
               "version": "[3.2.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Microsoft.WinAppDriver.Appium.WebDriver": {
+              "target": "Package",
+              "version": "[1.0.1-Preview, )"
             },
             "Microsoft.WinAppDriver.Appium.WebDriver": {
               "target": "Package",

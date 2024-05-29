@@ -29,17 +29,7 @@ namespace WpfTestApp.UITests
             TestInstance.Instance.CloseApp();
         }
 
-        //[TestMethod]
-        //public void MyFirstTest()
-        //{
-        //    //Arrange
-        //    _mainWindow.SelectTarget("Target 1");
-        //    var robotView = _mainWindow.GetRobotView("Robot #1");
-        //    //Act
-        //    _mainWindow.MoveAllButton.Click();
-        //    //Assert
-        //    Assert.IsFalse(robotView.GoButton.IsEnabled);
-        //}
+        
         [TestMethod]
         public void MoveRobot()
         {
@@ -141,21 +131,20 @@ namespace WpfTestApp.UITests
             _mainWindow.SelectTarget("Target 2");
             var robotView1 = _mainWindow.GetRobotView("Robot #1");
             robotView1.GoButton.Click(); //Click first robot with Target 1
-            //Assert.IsFalse(robotView1.GoButton.IsEnabled);
+            Assert.IsFalse(robotView1.GoButton.IsEnabled);
             Assert.AreEqual("Moving", robotView1.Status);
 
             Thread.Sleep(1000);
             _mainWindow.SelectTarget("Target 3");
             robotView1.GoButton.Click(); // Click same robot with Target 2
             Assert.AreEqual("Moving", robotView1.Status);
-            //Assert.IsFalse(robotView1.GoButton.IsEnabled);
+            Assert.IsFalse(robotView1.GoButton.IsEnabled);
         }
         [TestMethod]
         public void ErrorMessageOfRobots()
         {
             _mainWindow.SelectTarget("Target 1");
-            //var robotView = _mainWindow.GetRobotView("Robot #6");
-            //robotView.GoButton.Click();
+            
             _mainWindow.MoveAllButton.Click();
 
             Thread.Sleep(2000);
